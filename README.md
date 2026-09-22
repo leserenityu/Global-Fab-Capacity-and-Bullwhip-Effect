@@ -1,1 +1,7 @@
-# Global-Fab-Capacity-and-Bullwhip-Effect
+# Global Fab Capacity and Bullwhip Effect
+
+## BACKGROUND KNOWLEDGE
+With ASML building additional capacity in Eindhoven, the Netherlands, the ability to manufacture microchips will be enhanced as the company continues to expand its operations, especially in High-NA Photomasks. Combined with the initiatives of ASML and TSCM, the development of a 12-mask photomask will introduce new capabilities but also be more expensive. This can introduce the bullwhip effect, with long lead times within the supply chain, and manufacturing capacities will ultimately need to develop in response to this issue. As a student entering the supply chain, I would like to analyze publicly available data on fab capacity and the bullwhip effect on it. Given the industry’s reliance on these two factors, I can better understand it and demonstrate the work I can contribute to a semiconductor company.
+
+## TOOLS USED
+I attended a Tableau Workshop covering the fundamentals behind the software. I will apply the skills I learned to this project to demonstrate key data visualization skills. There are two public data sets that I will be using: The Emerging Technology Observatory (ETO) Chip Supply Chain Explorer & the Global Semiconductor Industry 2010-2026 dataset on Kaggle. The ETO database will be useful for supply chain process mapping, whereas the Kaggle dataset will provide financial and fab capacity metrics between 2010 and 2026.
